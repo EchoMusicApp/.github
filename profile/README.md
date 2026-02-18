@@ -1,81 +1,105 @@
-# Echo Music
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EchoMusicApp/Echo-Music/refs/heads/main/assets/Echo_github.png" alt="Echo Music Logo" width="140"/>
 
-Echo Music is an open-source music streaming application designed to deliver a complete and refined listening experience across platforms. The project currently includes an Android application built with Kotlin and a desktop application built with Flutter. Both implementations focus on performance, clean architecture, and feature completeness while maintaining transparent and community-driven development.
+  <h1>Echo Music</h1>
 
-This repository (or organization) contains the source code, build configurations, and documentation required to compile and maintain the Echo Music ecosystem.
-
----
-
-## Project Overview
-
-Echo Music integrates online streaming capabilities with essential music player functionality to create a cohesive and reliable user experience. The platform supports real-time synchronized lyrics, offline playback, playlist management, and background media controls.
-
-The Android version is built using Kotlin and follows standard Android architectural practices. The desktop version is developed using Flutter, enabling cross-platform support across Windows, macOS, and Linux from a single codebase.
-
-Both implementations are structured with modular and maintainable code to support long-term scalability and contributions from the community.
+  <p><strong>An open-source music streaming ecosystem for Android and Desktop.</strong></p>
+</div>
 
 ---
 
-## Android Application
-
-The Android application is developed using Kotlin and the Android SDK. It provides streaming access to a large music catalog while maintaining smooth playback and offline download support.
-
-The architecture emphasizes:
-
-- Clean and maintainable code structure  
-- Efficient media playback handling  
-- Background playback with system media controls  
-- Real-time synchronized lyrics  
-- Offline download and playback support  
-
-The project uses Gradle for dependency management and build automation. Detailed setup instructions are provided within the repository documentation.
+> [!NOTE]
+> **A message from the developer**
+>
+> Hey everyone 👋 I'm Aditya, the developer behind Echo Music. I started this project just for fun while managing my studies, never expecting it to grow this much. Seeing the support and love from the community has been incredible — truly beyond what I imagined.
+>
+> However, maintaining and scaling this project has become difficult to balance alongside my academics. Because of this, I've decided to **publicly archive Echo Music**. The source code will remain open for anyone to explore, fork, or build upon.
+>
+> Thank you for every star, every kind word, and every contribution. It meant everything. Take care — bye.
 
 ---
 
-## Desktop Application (Flutter)
+## Overview
 
-The Echo Music desktop client is built using Flutter to ensure cross-platform compatibility with a unified codebase. Flutter enables consistent UI rendering and performance across Windows, macOS, and Linux.
+Echo Music delivers a complete, ad-free music listening experience across Android and Desktop. It integrates streaming, offline playback, real-time synchronized lyrics, and playlist management into a cohesive and refined platform.
 
-The desktop implementation focuses on:
-
-- Responsive and modern UI design  
-- Consistent playback experience across platforms  
-- Efficient state management  
-- Scalable architecture for future extensions  
-
-Flutter’s tooling allows straightforward builds for supported desktop environments, with dependency management handled through the standard Flutter package system.
+The **Android** app is built with Kotlin, following standard Android architectural practices. The **Desktop** app is built with Flutter, providing a unified codebase across Windows, macOS, and Linux. Both projects emphasize clean architecture, long-term maintainability, and community-driven development.
 
 ---
 
-## Building the Projects
+## Projects
 
 ### Android
+Built with Kotlin and the Android SDK. Provides streaming access to a large music catalog with robust offline and background playback support.
 
-1. Clone the repository.  
-2. Open the project in Android Studio.  
-3. Install the required Android SDK versions.  
-4. Configure any required external services as described in the documentation.  
-5. Build using Gradle to generate debug or release APKs.
+- Clean, maintainable architecture
+- Background playback with system media controls
+- Real-time synchronized lyrics
+- Offline download and playback
+- Gradle-based build system
 
-### Desktop (Flutter)
+→ [Echo Music Android](https://github.com/iad1tya/Echo-Music)
 
-1. Install the latest stable version of Flutter with desktop support enabled.  
-2. Clone the desktop repository.  
-3. Run `flutter pub get` to install dependencies.  
-4. Use `flutter run` or build commands specific to your operating system to generate executables.
+### Desktop
+Built with Flutter for cross-platform support across Windows, macOS, and Linux from a single codebase.
 
-Detailed build and configuration instructions are provided within the respective repositories.
+- Responsive, modern UI
+- Consistent playback across platforms
+- Scalable state management
+- Standard Flutter tooling and package system
+
+→ [Echo Music Desktop](https://github.com/EchoMusicApp/Echo-Music-Desktop)
 
 ---
 
-## Contribution Guidelines
+## Building
 
-Contributions are welcomed across both Android and desktop projects. Contributors should review open issues and follow established coding conventions before submitting changes.
+### Android
+1. Clone the repository and open it in Android Studio.
+2. Install the required Android SDK versions.
+3. Configure any external services as described in the repository docs.
+4. Build via Gradle to generate debug or release APKs.
 
-Pull requests must be clear, focused, and properly documented. All submissions are reviewed prior to merging to maintain code quality and project stability.
+### Desktop (Flutter)
+1. Install the latest stable Flutter with desktop support enabled.
+2. Clone the desktop repository and run `flutter pub get`.
+3. Use `flutter run` or the platform-specific build command to generate an executable.
+
+Detailed instructions are available within each respective repository.
+
+---
+
+## Contributing
+
+Contributions are welcome across both projects. Please review open issues and follow the existing coding conventions before submitting a pull request. All submissions are reviewed prior to merging to maintain quality and stability.
+
+---
+
+## Special Thanks
+
+Echo Music was made possible with inspiration and reference from these open-source projects:
+
+### Android
+| Project | Link |
+|---------|------|
+| Metrolist | [github.com/MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) |
+| Better Lyrics | [better-lyrics.boidu.dev](https://better-lyrics.boidu.dev/) |
+| SimpMusic | [github.com/maxrave-dev/SimpMusic](https://github.com/maxrave-dev/SimpMusic) |
+| Music Recognizer | [github.com/aleksey-saenko/MusicRecognizer](https://github.com/aleksey-saenko/MusicRecognizer) |
+
+### Desktop
+| Project | Link |
+|---------|------|
+| Gyawun Music | [github.com/sheikhhaziq/gyawun_music](https://github.com/sheikhhaziq/gyawun_music) |
 
 ---
 
 ## License
 
-Echo Music is distributed under the GNU General Public License v3.0 (GPL-3.0). This ensures that the software and derivative works remain open and accessible under the same licensing terms. Refer to the `LICENSE` file in each repository for complete details.
+Echo Music is distributed under the **GNU General Public License v3.0 (GPL-3.0)**. All derivative works must remain open under the same terms. See the `LICENSE` file in each repository for full details.
+
+---
+
+<div align="center">
+  Made with ❤️ by <a href="https://iad1tya.cyou">Aditya</a>
+</div>
