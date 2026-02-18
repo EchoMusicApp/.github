@@ -2,8 +2,10 @@
   <img src="https://raw.githubusercontent.com/EchoMusicApp/Echo-Music/refs/heads/main/assets/Echo_github.png" alt="Echo Music Logo" width="140"/>
 
   <h1>Echo Music</h1>
-
   <p><strong>An open-source music streaming ecosystem for Android and Desktop.</strong></p>
+    <a href="https://trendshift.io/repositories/15844" target="_blank">
+    <img src="https://trendshift.io/api/badge/repositories/15844" alt="Trendshift" width="250" height="55"/>
+  </a>
 </div>
 
 ---
@@ -103,3 +105,4 @@ Echo Music is distributed under the **GNU General Public License v3.0 (GPL-3.0)*
 <div align="center">
   Made with ❤️ by <a href="https://iad1tya.cyou">Aditya</a>
 </div>
+
