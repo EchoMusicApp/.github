@@ -71,12 +71,6 @@ Detailed instructions are available within each respective repository.
 
 ---
 
-## Contributing
-
-Contributions are welcome across both projects. Please review open issues and follow the existing coding conventions before submitting a pull request. All submissions are reviewed prior to merging to maintain quality and stability.
-
----
-
 ## Special Thanks
 
 Echo Music was made possible with inspiration and reference from these open-source projects:
@@ -105,4 +99,5 @@ Echo Music is distributed under the **GNU General Public License v3.0 (GPL-3.0)*
 <div align="center">
   Made with ❤️ by <a href="https://iad1tya.cyou">Aditya</a>
 </div>
+
 
