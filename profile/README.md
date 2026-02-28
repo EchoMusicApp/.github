@@ -8,19 +8,6 @@
   </a>
 </div>
 
----
-
-> [!NOTE]
-> **A message from the developer**
->
-> Hey everyone 👋 I'm Aditya, the developer behind Echo Music. I started this project just for fun while managing my studies, never expecting it to grow this much. Seeing the support and love from the community has been incredible — truly beyond what I imagined.
->
-> However, maintaining and scaling this project has become difficult to balance alongside my academics. Because of this, I've decided to **publicly archive Echo Music**. The source code will remain open for anyone to explore, fork, or build upon.
->
-> Thank you for every star, every kind word, and every contribution. It meant everything. Take care — bye.
-
----
-
 ## Overview
 
 Echo Music delivers a complete, ad-free music listening experience across Android and Desktop. It integrates streaming, offline playback, real-time synchronized lyrics, and playlist management into a cohesive and refined platform.
@@ -99,5 +86,6 @@ Echo Music is distributed under the **GNU General Public License v3.0 (GPL-3.0)*
 <div align="center">
   Made with ❤️ by <a href="https://iad1tya.cyou">Aditya</a>
 </div>
+
 
 
