@@ -81,11 +81,6 @@ Echo Music was made possible with inspiration and reference from these open-sour
 
 Echo Music is distributed under the **GNU General Public License v3.0 (GPL-3.0)**. All derivative works must remain open under the same terms. See the `LICENSE` file in each repository for full details.
 
----
-
-<div align="center">
-  Made with ❤️ by <a href="https://iad1tya.cyou">Aditya</a>
-</div>
 
 
 
