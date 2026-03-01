@@ -81,6 +81,12 @@ Echo Music was made possible with inspiration and reference from these open-sour
 
 Echo Music is distributed under the **GNU General Public License v3.0 (GPL-3.0)**. All derivative works must remain open under the same terms. See the `LICENSE` file in each repository for full details.
 
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EchoMusicApp/.github/refs/heads/main/profile/PixelSphere.png" alt="Pixel Sphere" width="150"/>
+
+
 
 
 
